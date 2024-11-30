@@ -129,3 +129,9 @@ docker run --name song-library -p 8080:8080 --env-file .env song-library
 | POST   | /api/v1/songs     | Add a new song            |
 | PUT    | /api/v1/songs/:id | Update an existing song   |
 | DELETE | /api/v1/songs/:id | Delete a song by ID       |
+
+### **Swagger Address**
+
+```text
+/swagger/index.html 
+```
