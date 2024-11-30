@@ -1,0 +1,19 @@
+# Binaries
+main
+
+# Dependencies
+vendor/
+
+# Configuration files
+.env
+
+# Logs
+*.log
+
+# Build files
+*.out
+*.exe
+*.dll
+
+# Docker
+*.tar
